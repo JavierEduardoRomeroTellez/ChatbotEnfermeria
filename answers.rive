@@ -1,0 +1,28 @@
+! version = 2.0
+
++ hola
+- Saludo
+
++ enfermero
+- enfermero
+
++ (mexicali|tijuana|otraubicacion)
+- horario
+
++ (completo|medio|nocturno|otrohorario)
+- experiencia
+
++ (menos1a|1a3a|3a5a|mas5a)
+- gracias
+
++ contratacion
+- contratacion
+
++ pregunta
+- pregunta
+
++ buenas
+@ hola
+
++ *
+- prueba
